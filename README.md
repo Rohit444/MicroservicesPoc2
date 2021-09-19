@@ -1,8 +1,8 @@
 # MicroservicesPoc2
 
-we Have two microservices USER_SERVICE and DEPARTMENT_SERVICE
+we have two microservices USER_SERVICE and DEPARTMENT_SERVICE
 
-Both are spring boot applications and communication with each other.
+Both are spring boot applications and communicating with each other.
 
 For every User-Service request, User service is fetching information from Department-Service by calling it using RestTemplet call.
 
